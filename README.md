@@ -1,6 +1,19 @@
-# nodejs
-A minimal Node.js web application.
+# plm-extensions
+PLM User Experiences based on Fusion 360 Manage and Autodesk Platform Serivces
 
-For a step-by-step guide to deploying on [Railway](https://railway.app/?referralCode=alphasec), see [this](https://alphasec.io/how-to-deploy-a-nodejs-app-on-railway/) post, or click the button below.
+Disclaimer: This solution is provided as is and there should be no assumption that updates, patches, bug fixes and / or new features will be delivered to you. There will also be no support available either through Autodesk Support channels or by the Autodesk Pre-sales Technical Team. Please feel free to take the source code and ideas from this tool to develop your own production ready tool. This package contains native source code on purpose so that you can change or reuse it as you like.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Abo1zu?referralCode=alphasec)
+The following extensions are included
+- Change Impact Analysis
+- Class Browser
+- Design Review Portal
+- MBOM Editor
+- Mobile Client
+- Product Portfolio Catalog
+- Product Data Explorer
+- Projects Dashboard
+- Reports Dashboard
+- Services Portal
+- Tenant Inisghts
+- Variant Management
+- Workspaces Navigator

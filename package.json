@@ -1,13 +1,20 @@
 {
-  "name": "nodejs-app",
-  "version": "1.0.0",
-  "description": "A minimal Node.js web application.",
-  "main": "index.js",
-  "author": "alphasec",
-  "license": "MIT",
-   "dependencies": {
-  },
+  "name": "f3m.ts.experiences",
+  "version": "2.0.1 August 2023",
+  "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node --max-http-header-size=16384 ./bin/www"
+  },
+  "dependencies": {
+    "agentkeepalive": "*",
+    "axios": "*",
+    "express": "*",
+    "express-fileupload": "*",
+    "express-session": "*",
+    "express-status-monitor": "*",
+    "form-data": "*",
+    "morgan": "*",
+    "pug": "*",
+    "serve-favicon": "*"
   }
 }
